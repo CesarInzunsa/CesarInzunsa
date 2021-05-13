@@ -16,3 +16,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@CesarInzunsa-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/CesarInzunsa)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Inzunsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/CesarInzunsa)
+
+## GitHub Stats
+<a href="https://github.com/CesarInzunsa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarInzunsa&show_icons=true&include_all_commits" />
+</a>
+<a href="https://github.com/CesarInzunsa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarInzunsa&layout=compact)" />
+</a>
