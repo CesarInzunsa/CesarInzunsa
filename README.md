@@ -19,7 +19,7 @@
 
 ## GitHub Stats
 <a href="https://github.com/CesarInzunsa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarInzunsa&show_icons=true&include_all_commits" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarInzunsa&show_icons=true&hide=issues,prs" />
 </a>
 <a href="https://github.com/CesarInzunsa/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarInzunsa&layout=compact)" />
