@@ -11,7 +11,7 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
 ## 🔍 Encuentrame en:
-[![YouTube](https://img.shields.io/badge/YouTube-Cesar_Inzunsa-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/channel/UC2RN1YXSHHa_KctuEUKS29A)
+[![YouTube](https://img.shields.io/badge/YouTube-Cesar_Inzunsa-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/channel/UCGLqRgHmfilweb9CXwVtBRg)
 [![Twitter](https://img.shields.io/badge/Twitter-@CesarInzunsa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/CesarInzunsa)
 [![Instagram](https://img.shields.io/badge/Instagram-@CesarInzunsa-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/CesarInzunsa)
 </br>
