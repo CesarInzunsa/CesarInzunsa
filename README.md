@@ -17,6 +17,34 @@
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Inzunsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/CesarInzunsa)
 
+## Algunos videos:
+
+<table style="width:100%">
+  <tr>   
+    <td>
+      <a href="https://youtu.be/kYBjR2pIjgI"> <img src="https://img.youtube.com/vi/kYBjR2pIjgI/maxresdefault.jpg"> </a>
+	  </td>
+	  <td>
+	    <a href="https://youtu.be/EY5NXLv8nx4"> <img src="https://img.youtube.com/vi/EY5NXLv8nx4/maxresdefault.jpg"> </a>
+	  </td>
+    <td>
+	    <a href="https://youtu.be/YhIVbOYJekA"> <img src="https://img.youtube.com/vi/YhIVbOYJekA/maxresdefault.jpg"> </a>
+	  </td>
+  </tr>
+  <tr>   
+    <td>
+      <a href="https://youtu.be/YCoVI2GP-3Q"> <img src="https://img.youtube.com/vi/YCoVI2GP-3Q/maxresdefault.jpg"> </a>
+	  </td>
+	  <td>
+	    <a href="https://youtu.be/yW5ZeANpcx8"> <img src="https://img.youtube.com/vi/yW5ZeANpcx8/maxresdefault.jpg"> </a>
+	  </td>
+    <td>
+	    <a href="https://youtu.be/cUA3e-psyz4"> <img src="https://img.youtube.com/vi/cUA3e-psyz4/maxresdefault.jpg"> </a>
+	  </td>
+  </tr>
+    
+</table>
+
 ## 📈 GitHub Stats:
 <a href="https://github.com/CesarInzunsa/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarInzunsa&show_icons=true&hide=issues,prs&count_private=true" />
@@ -24,3 +52,4 @@
 <a href="https://github.com/CesarInzunsa/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarInzunsa&layout=compact)" />
 </a>
+
