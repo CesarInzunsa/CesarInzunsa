@@ -39,7 +39,7 @@
 	    <a href="https://youtu.be/yW5ZeANpcx8"> <img src="https://img.youtube.com/vi/yW5ZeANpcx8/maxresdefault.jpg"> </a>
 	  </td>
     <td>
-	    <a href="https://youtu.be/cUA3e-psyz4"> <img src="https://img.youtube.com/vi/cUA3e-psyz4/maxresdefault.jpg"> </a>
+	    <a href="https://youtu.be/Ek6-3iO3GJ8"> <img src="https://img.youtube.com/vi/Ek6-3iO3GJ8/maxresdefault.jpg"> </a>
 	  </td>
   </tr>
     
