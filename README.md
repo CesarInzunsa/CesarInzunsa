@@ -15,6 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@CesarInzunsa-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/CesarInzunsa)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Inzunsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/CesarInzunsa)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Cesar_Inzunsa-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=101010)](https://es.stackoverflow.com/users/207449/cesar-inzunsa)
 
 ## Algunos videos:
 <table style="width:100%">
