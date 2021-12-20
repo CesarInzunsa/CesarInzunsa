@@ -3,7 +3,7 @@
 ### Estudiante del Instituto Tecnologico de Tepic
 
 ## 🌱 Actualmente estoy aprendiendo:
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
 
 ## 🔨 Habilidades:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
