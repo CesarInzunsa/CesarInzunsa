@@ -3,7 +3,7 @@
 ### Estudiante del Instituto Tecnologico de Tepic
 
 ## 🌱 Actualmente estoy aprendiendo:
-[![Git](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
 
 ## 🔨 Habilidades:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -16,6 +16,7 @@
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Inzunsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/CesarInzunsa)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Cesar_Inzunsa-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=101010)](https://es.stackoverflow.com/users/207449/cesar-inzunsa)
+[![Platzi](https://img.shields.io/badge/Platzi-Cesar_Inzunsa-98CA3F?style=for-the-badge&logo=Platzi&logoColor=white&labelColor=101010)](https://platzi.com/p/CesarInzunsa)
 
 ## Algunos videos:
 <table style="width:100%">
