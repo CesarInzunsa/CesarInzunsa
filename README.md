@@ -14,7 +14,7 @@
 ## 🔍 Encuentrame en:
 [![Twitter](https://img.shields.io/badge/Twitter-@CesarInzunsa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/CesarInzunsa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Inzunsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/CesarInzunsa)
-[![Platzi](https://img.shields.io/badge/Platzi-Cesar_Inzunsa-98CA3F?style=for-the-badge&logo=Platzi&logoColor=white&labelColor=101010)](https://platzi.com/p/CesarInzunsa)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Cesar_Inzunsa-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&labelColor=101010)](https://platzi.com/p/CesarInzunsa)
 
 ## Algunos videos:
 <table style="width:100%">
