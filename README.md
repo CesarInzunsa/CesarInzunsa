@@ -15,29 +15,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@CesarInzunsa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/CesarInzunsa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Inzunsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/CesarInzunsa)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Cesar_Inzunsa-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&labelColor=101010)](https://www.freecodecamp.org/CesarInzunsa)
-
-## Algunos videos:
-<table style="width:100%">
-  <tr>   
-    <td>
-    	<a href="https://youtu.be/kYBjR2pIjgI"> <img src="https://img.youtube.com/vi/kYBjR2pIjgI/maxresdefault.jpg"> </a>
-	</td>
-	<td>
-	    <a href="https://youtu.be/EY5NXLv8nx4"> <img src="https://img.youtube.com/vi/EY5NXLv8nx4/maxresdefault.jpg"> </a>
-	</td>
-    <td>
-		<a href="https://youtu.be/YhIVbOYJekA"> <img src="https://img.youtube.com/vi/YhIVbOYJekA/maxresdefault.jpg"> </a>
-	</td>
-  </tr>
-  <tr>   
-    <td>
-    	<a href="https://youtu.be/YCoVI2GP-3Q"> <img src="https://img.youtube.com/vi/YCoVI2GP-3Q/maxresdefault.jpg"> </a>
-	</td>
-	<td>
-		<a href="https://youtu.be/yW5ZeANpcx8"> <img src="https://img.youtube.com/vi/yW5ZeANpcx8/maxresdefault.jpg"> </a>
-	</td>
-    <td>
-	    <a href="https://youtu.be/Ek6-3iO3GJ8"> <img src="https://img.youtube.com/vi/Ek6-3iO3GJ8/maxresdefault.jpg"> </a>
-	</td>
-  </tr>
-</table>
