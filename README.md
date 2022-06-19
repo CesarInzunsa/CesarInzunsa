@@ -1,4 +1,4 @@
-# Hola, mi nombre es Cesar Inzunsa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hola, mi nombre es Cesar Inzunsa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
 
 ### Estudiante del Instituto Tecnologico de Tepic
 
