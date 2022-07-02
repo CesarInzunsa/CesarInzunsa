@@ -1,8 +1,6 @@
 # Hello, my name is Cesar Inzunsa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
 
-### Estudiante del Instituto Tecnologico de Tepic
-
-## 🌱 Actualmente estoy aprendiendo:
+### IT Student
 
 ## 🔨 Skills:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
