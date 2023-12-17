@@ -4,10 +4,18 @@
 
 ## 🔨 Skills:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white&labelColor=101010)]()
-[![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)]()
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=101010)]()
+[![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)](https://netbeans.apache.org/front/main/)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Git Hub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Intel Idea Ultimate](https://img.shields.io/badge/Intel_Idea_Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010)](https://www.jetbrains.com/idea/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)](https://www.npmjs.com/)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=101010)](https://www.jetbrains.com/webstorm/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](https://developer.android.com/studio)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)](https://www.postman.com/)
 
 ## 🔍 Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-CesarInzunsa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/CesarInzunsa)
