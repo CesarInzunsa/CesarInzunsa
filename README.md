@@ -21,5 +21,5 @@
 
 ## 🔍 Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-CesarInzunsa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/CesarInzunsa)
-[![YouTube](https://img.shields.io/badge/YouTube-Cesar_Inzunsa-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)]([https://www.youtube.com/channel/UCGLqRgHmfilweb9CXwVtBRg](https://www.youtube.com/@cesaralejandroinzunsadiaz3234))
+[![YouTube](https://img.shields.io/badge/YouTube-Cesar_Inzunsa-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)](https://www.youtube.com/@cesaralejandroinzunsadiaz3234)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Inzunsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/CesarInzunsa)
